@@ -1,3 +1,4 @@
+# Instagram-Search-API [![Build Status](https://travis-ci.org/thisisme2017/Instagram-Search-API-Python-fixed.svg?branch=master)](https://travis-ci.org/thisisme2017/Instagram-Search-API-Python-fixed)
 
 # Build this repo
 
