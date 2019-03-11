@@ -1,0 +1,16 @@
+language: 
+  - python
+python:
+  - "3.5"
+  - nightly
+branches:
+  only:
+    - master
+    - /^\d+\.x\.x$/
+    - /^\d+\.\d+\.x$/
+# command to install dependencies
+install:
+  - pip install -r requirements.txt
+# command to run tests
+script:
+  - instagram_searchV2
